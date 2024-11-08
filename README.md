@@ -8,7 +8,6 @@ This project implements the K-means++ algorithm for selecting initial centroids,
 - **kmeans_pp.py**: Python interface for the project, including command-line arguments, data reading, K-means++ initialization, and output.
 - **kmeansmodule.c**: C extension containing the K-means algorithm with initial centroids determined by K-means++.
 - **setup.py**: Setup file for building the C extension for Python.
-- **bonus.py** (optional): Implements the Elbow method to determine the optimal number of clusters for K-means.
 
 ## Getting Started
 
