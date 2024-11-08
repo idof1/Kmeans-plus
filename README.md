@@ -57,17 +57,6 @@ The program outputs:
 1. Indices of initial centroids selected by K-means++.
 2. Final centroids calculated by K-means, formatted to four decimal places.
 
-### Bonus: Elbow Method
-
-The optional `bonus.py` script demonstrates the Elbow method to determine the optimal number of clusters. This script runs K-means with k-values from 1 to 10 and plots inertia values to find the "elbow" point.
-
-To run the bonus task:
-```bash
-python3 bonus.py
-```
-
-Output:
-- A plot saved as `elbow.png` showing inertia vs. k-values with the chosen k annotated.
 
 ## Assumptions & Notes
 
