@@ -77,6 +77,3 @@ To build and run the project:
 
 This project is based on the K-means++ initialization for K-means clustering, which helps improve initial centroid selection.
 
-## License
-
-[MIT License](LICENSE)
