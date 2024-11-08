@@ -17,8 +17,6 @@ This project requires the following:
 - **Python 3**
 - **NumPy**: For matrix operations.
 - **Pandas**: For data handling.
-- **scikit-learn**: For K-means clustering in the bonus task.
-- **matplotlib**: For plotting the Elbow method.
 - **C Compiler**: GCC or similar.
 
 ### Installation
